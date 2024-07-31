@@ -1,0 +1,43 @@
+header{
+    height: 350px;
+    background-color: purple;
+    text-align: center;
+    color: rgb(120, 209, 215);
+    padding: 70px;
+    font-size: 50px;
+    background-image: url("image-removebg-preview.png");
+    background-size:auto;
+    text-shadow: 2px 2px 2px #000;
+    font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+body{
+    margin: 0px;
+}
+
+.container{
+  background-color: beige;
+}
+.block1 {
+  font-size: 30px;
+  text-align: justify;
+}
+footer {
+background-color: darkgoldenrod;
+color: aliceblue;
+text-align: center;
+padding: 100px;
+}
+.social img {
+  width: 100px;
+  padding-left: 10px;
+}
+.social {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
